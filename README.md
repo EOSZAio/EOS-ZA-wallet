@@ -10,4 +10,4 @@ T
 2. Your keys are prodtecte with a pin-code. It is your responsibility to backup your pin and keys.
 3. Keys are used to sign your blockchain requests. The app never access or hold onto user funds.
 4. Although we make our best efforts to keep your keys safe device security remains your responsibility.
-- Keep your device safe. 
+ - Keep your device safe. 
