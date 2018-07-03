@@ -4,6 +4,10 @@
 
 This project was started to create a user centric EOS wallet application. At this stage the only tools available to the user have been written by block producers. These services and applications concentrate first on assisting the user vote for block producers. Although this is an important function for the EOS community, users require tools to manage their accounts and funds.
 
+## Main wallet features
+
+TBD
+
 ## Security model
 
 1. App offer a client-side security model, with private keys encrypted using the user pin and hosted locally. Keys are never sent to any servers.
