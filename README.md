@@ -6,7 +6,11 @@ This project was started to create a user centric EOS wallet application. At thi
 
 ## Main wallet features
 
-TBD
+- Manage multiple accounts
+- Transfer EOS
+- View transaction history
+- Stake, unstake EOS
+- Buy, sell RAM
 
 ## Security model
 
