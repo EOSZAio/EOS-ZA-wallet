@@ -21,7 +21,7 @@ This project was started to create a user centric EOS wallet application. At thi
 
 ## Contact
 
-If you would like to contact us about any of our projects please use one of the following channels;
+If you would like to contact us or contribute to any of our projects please use one of the following channels;
 
 - email : info@eosza.io
 - Telegram : https://t.me/joinchat/HWaH_hFWUs5AMNljXWkvAA
