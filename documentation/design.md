@@ -1,3 +1,5 @@
 # Flowchart
 
-Drawn using https://www.draw.io/#G1SuMlC_m-bkHJNYX6vztX3yCAb3wstXMS
+![App startup](https://github.com/EOSZAio/EOSZA-wallet/blob/master/documentation/startup.png "App startup")
+
+Drawn using https://www.draw.io
