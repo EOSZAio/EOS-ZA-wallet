@@ -1,5 +1,13 @@
 # Flowchart
 
+## JavaScript style
+
+Our JavaScript is formatted in the [AirBnB JS style](https://github.com/airbnb/javascript).
+
+## CSS style
+
+Our CSS style is in [AirBnB CSS styleguide](https://github.com/airbnb/css).
+
 ## Startup
 
 The wallet application startup process is;
