@@ -19,6 +19,11 @@ This project was started to create a user centric EOS wallet application. At thi
 3. Keys are used to sign your blockchain requests. The app never access or hold onto user funds.
 4. Although we make our best efforts to keep your keys safe device security remains your responsibility. We cannot protect you againse malware or unathorised assess. Follow best practice security recommendations from the device manfacturer to minimise the risk of your phone being compromised.
 
+## References
+
+The following repositories were referenced when creating this applicaiton;
+- Pomelo (voting) wallet : https://github.com/eosiosg/pomelo
+- 
 ## Contact
 
 If you would like to contact us or contribute to any of our projects please use one of the following channels;
