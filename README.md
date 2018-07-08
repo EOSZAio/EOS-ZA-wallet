@@ -20,7 +20,7 @@ This project was started to create a user centric EOS wallet application. At thi
 4. Although we make our best efforts to keep your keys safe device security remains your responsibility. We cannot protect you againse malware or unathorised assess. Follow best practice security recommendations from the device manfacturer to minimise the risk of your phone being compromised.
 ## Dpocumentation
 
-Design documentation : 
+[Design documentation](https://github.com/EOSZAio/EOSZA-wallet/blob/master/documentation/design.md)
 
 ## References
 
