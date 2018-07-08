@@ -18,6 +18,9 @@ This project was started to create a user centric EOS wallet application. At thi
 2. Your keys are prodtecte with a pin-code. It is your responsibility to backup your pin and keys.
 3. Keys are used to sign your blockchain requests. The app never access or hold onto user funds.
 4. Although we make our best efforts to keep your keys safe device security remains your responsibility. We cannot protect you againse malware or unathorised assess. Follow best practice security recommendations from the device manfacturer to minimise the risk of your phone being compromised.
+## Dpocumentation
+
+Design documentation : 
 
 ## References
 
