@@ -8,7 +8,7 @@ Our JavaScript is formatted in the [AirBnB JS style](https://github.com/airbnb/j
 
 Our CSS style is in [AirBnB CSS styleguide](https://github.com/airbnb/css).
 
-## Startup
+## Application startup
 
 The wallet application startup process is;
 1. Splascscreen
