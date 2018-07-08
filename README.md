@@ -25,7 +25,8 @@ This project was started to create a user centric EOS wallet application. At thi
 ## References
 
 The following repositories were referenced when creating this applicaiton;
-- Pomelo (voting) wallet : https://github.com/eosiosg/pomelo
+- Pomelo (voting) wallet app : https://meet.one/pomelo
+- Pomelo (voting) wallet Github : https://github.com/eosiosg/pomelo
 
 ## Contact
 
