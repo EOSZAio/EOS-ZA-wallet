@@ -10,7 +10,7 @@ export default class Splashscreen extends Component{
     }
 
     static defaultProps = {
-        message: 'Hello world'
+        message: 'Hello world!'
     }
 
   render(){
