@@ -18,7 +18,7 @@ The wallet application startup process is;
 * Test access point using "get_info" RPC call, if failed try next API point
 * Check language
 3. Main
-* no account set, add account
+* no account set, add account. NB, it is not necessary for the user to add their "active" private key to add an account to the wallet. The private key is only required when the user attempts to do something that requires a signature. This allows the wallet to be used to watch accounts.
 * Refresh all accounts using "get_account" RPC call
 
 Process shown in flow diagram below.
