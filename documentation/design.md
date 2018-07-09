@@ -11,12 +11,12 @@ Our CSS style is in [AirBnB CSS styleguide](https://github.com/airbnb/css).
 ## Application startup
 
 The wallet application startup process is;
-1. Splascscreen
+1. Language not set
+* Select language
+2. Splascscreen
 * Update blockchain API access point list (ilitially hardcoded)
 * Test access point using "get_info" RPC call, if failed try next API point
 * Check language
-2. Language not set
-* Select language
 3. Main
 * no account set, add account
 * Refresh all accounts using "get_account" RPC call
