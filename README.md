@@ -6,9 +6,15 @@ This project was started to create a user centric EOS wallet application. At thi
 
 ## Get involved
 
-We are in particular need for assistance in translating this application for other loaguages. Please contact us here is you are able to assist;
+This is a community based open source project and we welcome any contribution. We are in particular need for assistance in translating this application for other loaguages. Please contact us here is you are able to assist;
 - Telegram : @EOSza
 - email : info@eosza.io
+
+## Contact
+
+Besides the communication channels listed above, you can also follow us on;
+- Twitter : @EOSZAio
+- Facebook : http://fb.me/eosza
 
 ## Main wallet features
 
@@ -33,12 +39,3 @@ We are in particular need for assistance in translating this application for oth
 The following repositories were referenced when creating this applicaiton;
 - Pomelo (voting) wallet app : https://meet.one/pomelo
 - Pomelo (voting) wallet Github : https://github.com/eosiosg/pomelo
-
-## Contact
-
-If you would like to contact us or contribute to any of our projects please use one of the following channels;
-
-- email : info@eosza.io
-- Telegram : @EOSza
-- Twitter : https://twitter.com/EOSZAio
-- Facebook : http://fb.me/eosza
