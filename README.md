@@ -40,3 +40,4 @@ The following repositories were referenced when creating this applicaiton;
 - Pomelo (voting) wallet app : https://meet.one/pomelo
 - Pomelo (voting) wallet Github : https://github.com/eosiosg/pomelo
 - EOSMore EOS wallet demo : https://github.com/EOSMore/eos-wallet-demo
+- https://github.com/MarcelBlockchain
